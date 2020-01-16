@@ -19,18 +19,18 @@ It is important to note the values of the parameters are strings so any variable
 ## What the App Looks Like on IOS
 Before entering in values:
 
-![IOS before input](/src/images/AndroidBefore.png){:height="50%" width="50%"}
+![IOS before input](/src/images/AndroidBefore.png)
 After entering in values:
 
-![IOS after input](/src/images/AndroidAfter.png){:height="50%" width="50%"}
+![IOS after input](/src/images/AndroidAfter.png)
 
 ## What the App looks like on Android
 Before entering in values:
 
-![Android before input](/src/images/IOSBefore.png){:height="50%" width="50%"}
+![Android before input](/src/images/IOSBefore.png)
 After entering in values:
 
-![Android after input](/src/images/IOSAfter.png){:height="50%" width="50%"}
+![Android after input](/src/images/IOSAfter.png)
 
 ## Running the project
 The instructions assume you have installed the proper [React Native Tools](https://facebook.github.io/react-native/docs/getting-started) installed as well as [yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable) or [npm](https://www.google.com/search?q=npm+installation+instuctions&oq=npm+installation+instuctions&aqs=chrome..69i57j33.4406j0j4&sourceid=chrome&ie=UTF-8).
