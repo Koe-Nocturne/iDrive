@@ -19,7 +19,6 @@ import {
   Text,
 } from 'react-native';
 import Form from './src/components/FormInput';
-import {ThemeProvider} from 'react-native-elements';
 
 
 var styles = StyleSheet.create({
@@ -38,12 +37,6 @@ var styles = StyleSheet.create({
     backgroundColor: '#00001a',
   },
 });
-
-// const theme = {
-//   colors: {
-//     primary: '#2c7d5e',
-//   }
-// }
 
 class App extends Component {
   render() {
