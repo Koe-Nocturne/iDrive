@@ -16,7 +16,7 @@ export default function Formula(peakTime, scanTime, injectionVol) {
 ```
 It is important to note the values of the parameters are strings so any variables will need to be converted into a number.
 
-## What the App Looks Like on IOS
+## What the App Looks Like on Android
 Before entering in values:
 
 ![IOS before input](/src/images/AndroidBefore.png)
@@ -26,7 +26,7 @@ After entering in values:
 ![IOS after input](/src/images/AndroidAfter.png)
 
 
-## What the App looks like on Android
+## What the App looks like on IOS
 Before entering in values:
 
 ![Android before input](/src/images/IOSBefore.png)
